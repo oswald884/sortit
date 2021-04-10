@@ -1,0 +1,10 @@
+.home-container {
+    background-color: #363945;
+    min-height: 100vh;
+    padding-top: 25px;
+}
+
+.p-bottom {
+    height: 8vh;
+    width: 100%;
+}
